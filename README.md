@@ -46,6 +46,10 @@ This project is about building a web application using rails as backend and reac
   </ul>
 </details>
 
+## Link to React App
+
+You can find the React app repository [here](https://github.com/lincoln1883/hello-rails-frontend/pull/1).
+
 
 ### Key Features <a name="key-features"></a>
 
